@@ -1,7 +1,7 @@
 # TP CHARLIE Le jeux memory
 **Live preview**  :    
 [Tester le TP Charlie](https://www.sevenvalley.fr/tp-javascript/tpc)  
-<img src="../../img/tp/tpc.webp" width="400">
+<img src="../img/tp/tpc.webp" width="400">
 
 Vous avez la maquette dans le répertoire <code>maquette</code> 
 :warning: Pensez à ne pas mettre bootstrap  
