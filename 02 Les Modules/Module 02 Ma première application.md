@@ -5,14 +5,16 @@ Hello World :
 https://vuejs.org/examples/#hello-world
 
 
-
 ## Choix du code
 4 choix possible :
  - Options + HTML
  - Options + SFC
  - Compostion + HTML
  - Composition + SFC 
-
+ 
+<img src="../img/m1/vue.png" width="400">
+  
+ Notre choix : <code>Composition</code>  +  <code>HTML</code>
 Les formulaires :
 https://vuejs.org/examples/#form-bindings
   

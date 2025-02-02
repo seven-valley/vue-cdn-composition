@@ -1,16 +1,5 @@
 
-   
-<img src="../img/m1/vue.png" width="100">
-  
- Notre choix : <code>Composition</code>  +  <code>HTML</code>
-
-import / export
-
-les template de gabarit
-
-Les ternaires
-
-# Module 02 - JavaScript Next génération
+# Module 01 - JavaScript Next génération
 
 ## La portée du let est limité
 ```js
@@ -80,3 +69,5 @@ p1.age>17 & p1.age < 19 ? console.log('GOOD') :console.log(' pas GOOD');
 console.log()
 ```
 
+
+## import / export
